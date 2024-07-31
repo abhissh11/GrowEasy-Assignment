@@ -1,0 +1,109 @@
+{
+  "banners": [
+    {
+      "Title": "Summer Sale",
+      "Description": "Get up to 50% off on all summer collections!",
+      "CTA": "Shop Now",
+      "Image": "https://example.com/images/summer-sale.jpg",
+      "Background/Template": "summer-sale-bg"
+    },
+    {
+      "Title": "New Arrivals",
+      "Description": "Check out the latest trends in fashion.",
+      "CTA": "Explore Now",
+      "Image": "https://example.com/images/new-arrivals.jpg",
+      "Background/Template": "new-arrivals-bg"
+    },
+    {
+      "Title": "Tech Deals",
+      "Description": "Exclusive discounts on the latest gadgets.",
+      "CTA": "Buy Now",
+      "Image": "https://example.com/images/tech-deals.jpg",
+      "Background/Template": "tech-deals-bg"
+    },
+    {
+      "Title": "Holiday Specials",
+      "Description": "Amazing offers for your holiday shopping.",
+      "CTA": "Discover More",
+      "Image": "https://example.com/images/holiday-specials.jpg",
+      "Background/Template": "holiday-specials-bg"
+    },
+    {
+      "Title": "Fitness Gear",
+      "Description": "Up to 30% off on all fitness equipment.",
+      "CTA": "Get Fit",
+      "Image": "https://example.com/images/fitness-gear.jpg",
+      "Background/Template": "fitness-gear-bg"
+    },
+    {
+      "Title": "Back to School",
+      "Description": "Everything you need for the new school year.",
+      "CTA": "Shop Supplies",
+      "Image": "https://example.com/images/back-to-school.jpg",
+      "Background/Template": "back-to-school-bg"
+    },
+    {
+      "Title": "Winter Collection",
+      "Description": "Stay warm with our latest winter collection.",
+      "CTA": "See Collection",
+      "Image": "https://example.com/images/winter-collection.jpg",
+      "Background/Template": "winter-collection-bg"
+    },
+    {
+      "Title": "Travel Essentials",
+      "Description": "Pack your bags with our travel essentials.",
+      "CTA": "Pack Now",
+      "Image": "https://example.com/images/travel-essentials.jpg",
+      "Background/Template": "travel-essentials-bg"
+    },
+    {
+      "Title": "Home Decor",
+      "Description": "Beautify your home with our decor items.",
+      "CTA": "Decorate Now",
+      "Image": "https://example.com/images/home-decor.jpg",
+      "Background/Template": "home-decor-bg"
+    },
+    {
+      "Title": "Kitchen Appliances",
+      "Description": "Upgrade your kitchen with the latest appliances.",
+      "CTA": "Upgrade Now",
+      "Image": "https://example.com/images/kitchen-appliances.jpg",
+      "Background/Template": "kitchen-appliances-bg"
+    },
+    {
+      "Title": "Beauty Products",
+      "Description": "Get glowing with our beauty products.",
+      "CTA": "Shop Beauty",
+      "Image": "https://example.com/images/beauty-products.jpg",
+      "Background/Template": "beauty-products-bg"
+    },
+    {
+      "Title": "Outdoor Gear",
+      "Description": "Gear up for your next outdoor adventure.",
+      "CTA": "Explore Now",
+      "Image": "https://example.com/images/outdoor-gear.jpg",
+      "Background/Template": "outdoor-gear-bg"
+    },
+    {
+      "Title": "Pet Supplies",
+      "Description": "Everything your pet needs, all in one place.",
+      "CTA": "Shop Now",
+      "Image": "https://example.com/images/pet-supplies.jpg",
+      "Background/Template": "pet-supplies-bg"
+    },
+    {
+      "Title": "Toys & Games",
+      "Description": "Fun and educational toys for kids of all ages.",
+      "CTA": "Play Now",
+      "Image": "https://example.com/images/toys-games.jpg",
+      "Background/Template": "toys-games-bg"
+    },
+    {
+      "Title": "Office Supplies",
+      "Description": "Stock up on essential office supplies.",
+      "CTA": "Shop Now",
+      "Image": "https://example.com/images/office-supplies.jpg",
+      "Background/Template": "office-supplies-bg"
+    }
+  ]
+}
